@@ -1,6 +1,5 @@
 # Dev Career DevOps Engineering Projects
-
-Welcome to my Devcareer DevOps Engineering Projects repository. This repository contains a series of projects completed as part of the Devcareer Cloud DevOps Engineering Program. Each project focuses on different aspects of DevOps, Linux administration, networking, containerization, infrastructure as code (IaC), microservices, cloud deployment, monitoring, and logging.
+	Welcome to my Devcareer DevOps Engineering Projects repository. This repository contains a series of projects completed as part of the Devcareer Cloud DevOps Engineering Program. Each project focuses on different aspects of DevOps, Linux administration, networking, containerization, infrastructure as code (IaC), microservices, cloud deployment, monitoring, and logging.
 
 ***
 
@@ -38,5 +37,3 @@ Welcome to my Devcareer DevOps Engineering Projects repository. This repository 
 -	**December: Final Project - Comprehensive System Deployment**
 	-	Apply all learned concepts to design and deploy a multi-tier system incorporating Linux administration, networking, IaC, monitoring, logging, microservices, and cloud computing.
 	-	Showcase your skills through documentation, a live demo, and code submissions.
-
-***
