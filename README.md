@@ -1,5 +1,3 @@
-***
-
 # Dev Career DevOps Engineering Projects
 
 Welcome to my Devcareer DevOps Engineering Projects repository. This repository contains a series of projects completed as part of the Devcareer Cloud DevOps Engineering Program. Each project focuses on different aspects of DevOps, Linux administration, networking, containerization, infrastructure as code (IaC), microservices, cloud deployment, monitoring, and logging.
